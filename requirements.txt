@@ -1,2 +1,6 @@
+wheel
 black
 pre-commit
+jax
+equinox==0.8.0
+optax
