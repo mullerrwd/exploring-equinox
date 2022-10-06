@@ -1,6 +1,11 @@
 wheel
 black
 pre-commit
+-f https://storage.googleapis.com/jax-releases/jax_releases.html
 jax
 equinox==0.8.0
 optax
+absl-py
+torch
+torchvision
+rich
